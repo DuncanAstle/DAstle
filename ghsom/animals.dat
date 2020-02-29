@@ -1,0 +1,18 @@
+13
+#n Small Medium Big 2-Legs 4-Legs Hair Hooves Mane Feathers Hunt Run Fly Swim 
+1 0 0 1 0 0 0 0 1 0 0 1 0 Dove
+1 0 0 1 0 0 0 0 1 0 0 0 0 Chicken
+1 0 0 1 0 0 0 0 1 0 0 0 1 Duck
+1 0 0 1 0 0 0 0 1 0 0 1 1 Goose
+1 0 0 1 0 0 0 0 1 1 0 1 0 Owl
+1 0 0 1 0 0 0 0 1 1 0 1 0 Hawk
+0 1 0 1 0 0 0 0 1 1 0 1 0 Eagle
+0 1 0 0 1 1 0 0 0 1 0 0 0 Fox
+0 1 0 0 1 1 0 0 0 0 1 0 0 Dog
+0 1 0 0 1 1 0 1 0 1 1 0 0 Wolf
+1 0 0 0 1 1 0 0 0 1 0 0 0 Cat
+0 0 1 0 1 1 0 0 0 1 1 0 0 Tiger
+0 0 1 0 1 1 0 1 0 1 1 0 0 Lion
+0 0 1 0 1 1 1 1 0 0 1 0 0 Horse
+0 0 1 0 1 1 1 1 0 0 1 0 0 Zebra
+0 0 1 0 1 1 1 0 0 0 0 0 0 Cow

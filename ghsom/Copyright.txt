@@ -1,0 +1,43 @@
+COPYRIGHT
+---------
+
+GHSOM Toolbox, a software library for Matlab 5 implementing the
+Growing Hierarchical Self-Organizing Map algorithm is 
+Copyright (C) 2001-2002 by Elias Pampalk and Alvin Chan.
+
+This package is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or any later version.
+
+Note: This toolbox uses functions of the SOM Toolbox Version 2.0, 
+which has its own copyright notice.
+
+This package is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this package (file License.txt); if not, write to the Free
+Software Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA
+02111-1307, USA.
+
+
+LICENSING THE LIBRARY FOR PROPRIETARY PROGRAMS
+----------------------------------------------
+
+As stated in the GNU General Public License (see License.txt) it is
+not possible to include this software library in a commercial
+proprietary program without written permission from the owners of the
+copyright. If you wish to obtain such permission, you can reach us by
+by email:
+  elias@oefai.at  or,
+  alvin@erg.abdn.ac.uk
+
+
+
+
+
+
+
